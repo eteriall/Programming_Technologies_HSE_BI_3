@@ -1,20 +1,36 @@
 # Programming_Technologies_HSE_BI_3
-Repository for university programming course homework
+Репозиторий с домашним заданием (ТЗ3) по предмету "Технологии программирования".
 
+Я реализовал простейшую архитектуру сервиса для онлайн-заказа блюд из ресторанов с доставкой. Сервис реализуется в виде четырёз больших сущностей:
+1) Касса для заведений (ресторанов)
+2) Мобильное приложение для клиентов (покупателей)
+3) Мобильное приложение для курьеров
+4) Облачный сервис-оркестратор
+
+### Касса для заведений (ресторанов)
+### Мобильное приложение для клиентов (покупателей)
+### Мобильное приложение для курьеров
+### Облачный сервис-оркестратор
+
+
+
+
+# Фотографии диаграмм
+**Для удобства ниже представлены скриншоты диаграмм, исходные файлы в формате .drawio хранятся в папке DRAWIO, файлы в формате .pdf в папке PDF.**
 
 ## Диаграмма вариантов использования системы
 <img width="400" alt="Диаграмма вариантов использования" src="https://github.com/eteriall/Programming_Technologies_HSE_BI_3/assets/57683566/37292156-fe7b-4d5f-871d-2ad5aa5086fb">
 
-## Programming_Technologies_HSE_BI_3
+## Диаграмма деятельности системы
 <img width="400" alt="Диаграмма деятельности системы" src="https://github.com/eteriall/Programming_Technologies_HSE_BI_3/assets/57683566/7c73b809-a7fd-43e3-a5ce-6ced6c3abee1">
 
-## Programming_Technologies_HSE_BI_3
+## Диаграмма статуса заказа
 <img width="400" alt="Диаграмма статуса заказа" src="https://github.com/eteriall/Programming_Technologies_HSE_BI_3/assets/57683566/f9694d96-583c-455a-96cc-932dd3f7040d">
 
-## Programming_Technologies_HSE_BI_3
+## Диаграмма процесса заказа
 <img width="400" alt="Диаграмма процесса заказа" src="https://github.com/eteriall/Programming_Technologies_HSE_BI_3/assets/57683566/5528110f-17b8-44bb-885f-41b53eb0a4e6">
 
-## Programming_Technologies_HSE_BI_3
+## Диаграмма классов системы
 <img width="400" alt="Диаграмма классов системы" src="https://github.com/eteriall/Programming_Technologies_HSE_BI_3/assets/57683566/f98f3080-e89a-4555-b504-a521c2a8cb5e">
 
 
